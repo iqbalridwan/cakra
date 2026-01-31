@@ -5,22 +5,22 @@ import { Plus, X } from "lucide-react";
 const faqs = [
   {
     id: "01",
-    question: "What services does SquareUp provide?",
-    answer: "SquareUp offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
+    question: "What services does Cakra provide?",
+    answer: "Cakra offers a range of services including design, engineering, and project management. We specialize in user experience design, web development, mobile app development, custom software development, branding and identity, and more.",
   },
   {
     id: "02",
-    question: "How can SquareUp help my business?",
+    question: "How can Cakra help my business?",
     answer: "We help businesses by creating high-quality digital products that improve user engagement and streamline operations.",
   },
   {
     id: "03",
-    question: "What industries does SquareUp work with?",
+    question: "What industries does Cakra work with?",
     answer: "We work with various industries including Fintech, Healthtech, E-commerce, and more.",
   },
   {
     id: "04",
-    question: "How long does it take to complete a project with SquareUp?",
+    question: "How long does it take to complete a project with Cakra?",
     answer: "Project timelines vary depending on complexity, but typically range from 4 to 12 weeks.",
   },
   {
@@ -65,7 +65,7 @@ const FAQ = () => {
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Frequently Asked Questions</h2>
           <p className="text-gray-400">
             Still you have any questions? Contact our Team via{" "}
-            <span className="text-white border-b border-white/30 cursor-pointer">hello@squareup.com</span>
+            <span className="text-white border-b border-white/30 cursor-pointer">cakrainovasidigital@gmail.com</span>
           </p>
         </div>
 
