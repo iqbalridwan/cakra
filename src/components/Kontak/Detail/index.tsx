@@ -22,7 +22,7 @@ const ContactDetail = () => {
             <div className="bg-[#C5FF32]/10 p-2 rounded-lg">
               <Phone className="w-5 h-5 text-[#C5FF32]" />
             </div>
-            <span className="text-sm font-medium">08586540530</span>
+            <span className="text-sm font-medium">085865405330</span>
           </div>
 
           <div className="flex items-center gap-3 bg-[#1A1A1A] border border-white/5 px-6 py-4 rounded-xl min-w-[240px]">
